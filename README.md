@@ -4,6 +4,8 @@ Mapa público de um ambiente de trabalho com Codex, Claude Code, skills, plugins
 
 Este repositório não é um backup do meu computador. Ele é uma documentação curada do stack: quais capacidades uso, como organizo agentes e quais limites sigo para não publicar credenciais, histórico, memórias ou configuração privada.
 
+Para agentes, o arquivo mais útil é `data/skill-sources.json`: ele mapeia cada skill para host, plugin, marketplace, fonte pública quando conhecida e método seguro de instalação.
+
 ## Snapshot
 
 Gerado em 2026-05-22.
@@ -13,7 +15,7 @@ Gerado em 2026-05-22.
 | Skills mapeadas | 2.167 |
 | Plugins configurados no Codex | 44 |
 | Plugins registrados no Claude Code | 56 |
-| MCPs documentados por nome | 11 |
+| MCPs documentados por nome | 6 |
 
 ## O Que Este Repo Mostra
 
@@ -35,6 +37,9 @@ Gerado em 2026-05-22.
 | Documento | Conteúdo |
 | --- | --- |
 | [Skills inventory](docs/skills-inventory.md) | Skills diretas, com categoria, origem e descrição pública quando disponível |
+| [Skill sources](docs/skill-sources.md) | Origem e método seguro de instalação por grupo de skills |
+| [Agent quickstart](docs/agent-quickstart.md) | Fluxo para Codex, Claude Code e outros agentes consumirem este repo |
+| [Install guide](docs/install-guide.md) | Guia seguro para recriar o stack em outra máquina ou WSL |
 | [Codex plugins](docs/codex-plugins.md) | Plugins habilitados no Codex, por marketplace e categoria |
 | [Claude Code plugins](docs/claude-code-plugins.md) | Plugins registrados no Claude Code, versão e origem pública quando disponível |
 | [MCP servers](docs/mcp-servers.md) | MCPs por nome, transporte e nota de privacidade |
@@ -62,6 +67,7 @@ O gerador lê diretórios locais conhecidos e escreve apenas dados sanitizados e
 
 ```bash
 python3 scripts/generate_inventory.py
+python3 scripts/render_install_plan.py --summary
 bash scripts/privacy_check.sh
 ```
 

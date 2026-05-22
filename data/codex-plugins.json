@@ -2,7 +2,7 @@
   {
     "plugin": "agent-sdk-dev",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "ai-agent-ops"
   },
@@ -16,14 +16,14 @@
   {
     "plugin": "build-ios-apps",
     "marketplace": "openai-curated",
-    "status": "enabled",
+    "status": "disabled",
     "source": "OpenAI curated plugin marketplace",
     "category": "frontend"
   },
   {
     "plugin": "build-macos-apps",
     "marketplace": "openai-curated",
-    "status": "enabled",
+    "status": "disabled",
     "source": "OpenAI curated plugin marketplace",
     "category": "frontend"
   },
@@ -51,14 +51,14 @@
   {
     "plugin": "claude-code-setup",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "ai-agent-ops"
   },
   {
     "plugin": "claude-md-management",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "ai-agent-ops"
   },
@@ -72,14 +72,14 @@
   {
     "plugin": "code-review",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "github-repo-ops"
   },
   {
     "plugin": "code-simplifier",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
@@ -100,7 +100,7 @@
   {
     "plugin": "commit-commands",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "github-repo-ops"
   },
@@ -114,7 +114,7 @@
   {
     "plugin": "context7",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
@@ -128,14 +128,14 @@
   {
     "plugin": "feature-dev",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
   {
     "plugin": "figma",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
@@ -163,7 +163,7 @@
   {
     "plugin": "learning-output-style",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
@@ -177,35 +177,35 @@
   {
     "plugin": "playground",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
   {
     "plugin": "playwright",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "browser-automation"
   },
   {
     "plugin": "plugin-dev",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
   {
     "plugin": "posthog",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "data-analytics"
   },
   {
     "plugin": "pr-review-toolkit",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "github-repo-ops"
   },
@@ -219,21 +219,21 @@
   {
     "plugin": "ralph-loop",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
   {
     "plugin": "security-guidance",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "frontend"
   },
   {
     "plugin": "skill-creator",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
@@ -247,14 +247,14 @@
   {
     "plugin": "stripe",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "general"
   },
   {
     "plugin": "supabase",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "data-analytics"
   },
@@ -268,7 +268,7 @@
   {
     "plugin": "superpowers",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "ai-agent-ops"
   },
@@ -296,7 +296,7 @@
   {
     "plugin": "vercel",
     "marketplace": "claude-plugins-official",
-    "status": "enabled",
+    "status": "disabled",
     "source": "https://github.com/anthropics/claude-plugins-official",
     "category": "cloud-deploy"
   },

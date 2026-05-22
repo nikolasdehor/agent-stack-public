@@ -3,8 +3,10 @@
   "privacy_note": "Sanitized inventory. No auth files, logs, memory databases, local config, or raw plugin cache contents are included.",
   "counts": {
     "skills_total": 2167,
+    "skill_source_rows": 2167,
     "codex_plugins_configured": 44,
-    "claude_plugins_registered": 56
+    "claude_plugins_registered": 56,
+    "mcp_servers_documented": 6
   },
   "skills_by_source": {
     "agents-direct": 352,
@@ -25,5 +27,15 @@
     "general": 515,
     "github-repo-ops": 438,
     "security": 313
+  },
+  "skills_by_install_method": {
+    "bundled-runtime": 6,
+    "manual-review": 715,
+    "plugin": 1446
+  },
+  "skills_by_resolution_status": {
+    "manual-source-required": 716,
+    "marketplace-or-bundled": 124,
+    "public-source": 1327
   }
 }

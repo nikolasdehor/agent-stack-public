@@ -1,24 +1,6 @@
 [
   {
-    "name": "agentmemory",
-    "transport": "stdio",
-    "category": "ai-agent-ops",
-    "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
-  },
-  {
     "name": "cloudflare-docs",
-    "transport": "remote-http",
-    "category": "cloud-deploy",
-    "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
-  },
-  {
-    "name": "cloudflare-observability",
-    "transport": "remote-http",
-    "category": "cloud-deploy",
-    "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
-  },
-  {
-    "name": "cloudflare-radar",
     "transport": "remote-http",
     "category": "cloud-deploy",
     "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
@@ -27,12 +9,6 @@
     "name": "code-review-graph",
     "transport": "stdio",
     "category": "github-repo-ops",
-    "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
-  },
-  {
-    "name": "hostinger",
-    "transport": "stdio",
-    "category": "cloud-deploy",
     "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
   },
   {
@@ -54,13 +30,7 @@
     "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
   },
   {
-    "name": "sentry",
-    "transport": "stdio",
-    "category": "general",
-    "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
-  },
-  {
-    "name": "sequential-thinking",
+    "name": "telegram",
     "transport": "stdio",
     "category": "general",
     "public_note": "Name only. Command args, URLs, env vars, and auth state intentionally omitted."
