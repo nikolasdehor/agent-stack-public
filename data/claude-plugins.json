@@ -1,0 +1,450 @@
+[
+  {
+    "plugin": "agent-sdk-dev",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "agile-workflow",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "general"
+  },
+  {
+    "plugin": "cavecrew",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "general"
+  },
+  {
+    "plugin": "caveman-commit",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "caveman-help",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "general"
+  },
+  {
+    "plugin": "caveman-review",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "caveman-stats",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "general"
+  },
+  {
+    "plugin": "caveman",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "general"
+  },
+  {
+    "plugin": "chrome-devtools-mcp",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.1",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "browser-automation"
+  },
+  {
+    "plugin": "claude-code-setup",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "claude-md-management",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "claude-mem",
+    "marketplace": "thedotmack",
+    "version": "13.3.0",
+    "status": "enabled",
+    "source": "https://github.com/thedotmack/claude-mem",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "code-review",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "code-simplifier",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "codebase-audit-suite",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "frontend"
+  },
+  {
+    "plugin": "codex",
+    "marketplace": "openai-codex",
+    "version": "1.0.3",
+    "status": "enabled",
+    "source": "https://github.com/openai/codex-plugin-cc",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "commit-commands",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "community-engagement",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "general"
+  },
+  {
+    "plugin": "compress",
+    "marketplace": "juliusbrussee-caveman",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/JuliusBrussee/caveman",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "context-mode-ops",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "context-mode",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "context7",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "ctx-doctor",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "ctx-insight",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "ctx-purge",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "ctx-stats",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "ctx-upgrade",
+    "marketplace": "mksglu-context-mode",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/mksglu/context-mode",
+    "category": "general"
+  },
+  {
+    "plugin": "documentation-pipeline",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "docs-content"
+  },
+  {
+    "plugin": "feature-dev",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "figma",
+    "marketplace": "claude-plugins-official",
+    "version": "2.2.12",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "firecrawl",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.8",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "fleet-auditor",
+    "marketplace": "alexgreensh-token-optimizer",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/alexgreensh/token-optimizer",
+    "category": "security"
+  },
+  {
+    "plugin": "frontend-design",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "frontend"
+  },
+  {
+    "plugin": "github",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "learning-output-style",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "optimization-suite",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "frontend"
+  },
+  {
+    "plugin": "playground",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "playwright",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "browser-automation"
+  },
+  {
+    "plugin": "plugin-dev",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "posthog",
+    "marketplace": "claude-plugins-official",
+    "version": "1.1.22",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "data-analytics"
+  },
+  {
+    "plugin": "pr-review-toolkit",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "project-bootstrap",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "pyright-lsp",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "ralph-loop",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "security-guidance",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "frontend"
+  },
+  {
+    "plugin": "setup-environment",
+    "marketplace": "levnikolaevich-skills-marketplace",
+    "version": "revision",
+    "status": "enabled",
+    "source": "https://github.com/levnikolaevich/claude-code-skills",
+    "category": "general"
+  },
+  {
+    "plugin": "skill-creator",
+    "marketplace": "claude-plugins-official",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "stripe",
+    "marketplace": "claude-plugins-official",
+    "version": "0.1.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "supabase",
+    "marketplace": "claude-plugins-official",
+    "version": "0.1.6",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "data-analytics"
+  },
+  {
+    "plugin": "superpowers",
+    "marketplace": "claude-plugins-official",
+    "version": "5.1.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "telegram",
+    "marketplace": "claude-plugins-official",
+    "version": "0.0.6",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "token-coach",
+    "marketplace": "alexgreensh-token-optimizer",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/alexgreensh/token-optimizer",
+    "category": "general"
+  },
+  {
+    "plugin": "token-dashboard",
+    "marketplace": "alexgreensh-token-optimizer",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/alexgreensh/token-optimizer",
+    "category": "general"
+  },
+  {
+    "plugin": "token-optimizer",
+    "marketplace": "alexgreensh-token-optimizer",
+    "version": "unknown",
+    "status": "enabled",
+    "source": "https://github.com/alexgreensh/token-optimizer",
+    "category": "general"
+  },
+  {
+    "plugin": "typescript-lsp",
+    "marketplace": "claude-plugins-official",
+    "version": "1.0.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "vercel",
+    "marketplace": "claude-plugins-official",
+    "version": "0.43.0",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "cloud-deploy"
+  }
+]

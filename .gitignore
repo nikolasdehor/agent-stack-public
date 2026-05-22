@@ -1,0 +1,14 @@
+.DS_Store
+*.tar.gz
+*.zip
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+.env
+auth.json
+credentials*
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/

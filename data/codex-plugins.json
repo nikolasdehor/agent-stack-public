@@ -1,0 +1,310 @@
+[
+  {
+    "plugin": "agent-sdk-dev",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "browser",
+    "marketplace": "openai-bundled",
+    "status": "enabled",
+    "source": "Bundled with Codex",
+    "category": "browser-automation"
+  },
+  {
+    "plugin": "build-ios-apps",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "frontend"
+  },
+  {
+    "plugin": "build-macos-apps",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "frontend"
+  },
+  {
+    "plugin": "build-web-apps",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "frontend"
+  },
+  {
+    "plugin": "canva",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "general"
+  },
+  {
+    "plugin": "chrome",
+    "marketplace": "openai-bundled",
+    "status": "enabled",
+    "source": "Bundled with Codex",
+    "category": "browser-automation"
+  },
+  {
+    "plugin": "claude-code-setup",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "claude-md-management",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "cloudflare",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "cloud-deploy"
+  },
+  {
+    "plugin": "code-review",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "code-simplifier",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "coderabbit",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "general"
+  },
+  {
+    "plugin": "codex-security",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "security"
+  },
+  {
+    "plugin": "commit-commands",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "computer-use",
+    "marketplace": "openai-bundled",
+    "status": "enabled",
+    "source": "Bundled with Codex",
+    "category": "general"
+  },
+  {
+    "plugin": "context7",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "documents",
+    "marketplace": "openai-primary-runtime",
+    "status": "enabled",
+    "source": "Bundled Codex primary runtime",
+    "category": "general"
+  },
+  {
+    "plugin": "feature-dev",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "figma",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "frontend-design",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "frontend"
+  },
+  {
+    "plugin": "github",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "hostinger",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "cloud-deploy"
+  },
+  {
+    "plugin": "learning-output-style",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "openai-developers",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "playground",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "playwright",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "browser-automation"
+  },
+  {
+    "plugin": "plugin-dev",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "posthog",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "data-analytics"
+  },
+  {
+    "plugin": "pr-review-toolkit",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "presentations",
+    "marketplace": "openai-primary-runtime",
+    "status": "enabled",
+    "source": "Bundled Codex primary runtime",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "ralph-loop",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "security-guidance",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "frontend"
+  },
+  {
+    "plugin": "skill-creator",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "spreadsheets",
+    "marketplace": "openai-primary-runtime",
+    "status": "enabled",
+    "source": "Bundled Codex primary runtime",
+    "category": "github-repo-ops"
+  },
+  {
+    "plugin": "stripe",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "supabase",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "data-analytics"
+  },
+  {
+    "plugin": "supabase",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "data-analytics"
+  },
+  {
+    "plugin": "superpowers",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "superpowers",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "ai-agent-ops"
+  },
+  {
+    "plugin": "telegram",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "general"
+  },
+  {
+    "plugin": "test-android-apps",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "general"
+  },
+  {
+    "plugin": "vercel",
+    "marketplace": "claude-plugins-official",
+    "status": "enabled",
+    "source": "https://github.com/anthropics/claude-plugins-official",
+    "category": "cloud-deploy"
+  },
+  {
+    "plugin": "vercel",
+    "marketplace": "openai-curated",
+    "status": "enabled",
+    "source": "OpenAI curated plugin marketplace",
+    "category": "cloud-deploy"
+  }
+]

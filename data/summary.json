@@ -1,0 +1,29 @@
+{
+  "generated_for": "public documentation",
+  "privacy_note": "Sanitized inventory. No auth files, logs, memory databases, local config, or raw plugin cache contents are included.",
+  "counts": {
+    "skills_total": 2167,
+    "codex_plugins_configured": 44,
+    "claude_plugins_registered": 56
+  },
+  "skills_by_source": {
+    "agents-direct": 352,
+    "claude-direct": 313,
+    "claude-dot-agents": 34,
+    "claude-plugin-derived": 1198,
+    "codex-direct": 16,
+    "codex-plugin-derived": 254
+  },
+  "skills_by_category": {
+    "ai-agent-ops": 75,
+    "backend": 134,
+    "browser-automation": 24,
+    "cloud-deploy": 76,
+    "data-analytics": 15,
+    "docs-content": 94,
+    "frontend": 483,
+    "general": 515,
+    "github-repo-ops": 438,
+    "security": 313
+  }
+}
